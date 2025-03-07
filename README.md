@@ -14,7 +14,7 @@ The Dictionary App is a simple and interactive web application that allows users
 
 You can view the live demo of the project by clicking the link below:
 
-[Live Demo](https://shalbashaikh16.github.io/Dictionary_app/)
+[[Live Demo](https://shalbashaikh16.github.io/Dictionary_app/)](https://github.com/ShalbaShaikh16/Dictionary_app/blob/master/Dict.gif?raw=true)
 
 ## Installation
 
