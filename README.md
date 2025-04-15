@@ -16,6 +16,13 @@ You can view the live demo of the project by clicking the link below:
 
 [[Live Demo](https://shalbashaikh16.github.io/Dictionary_app/)](https://github.com/ShalbaShaikh16/Dictionary_app/blob/master/Dict.gif?raw=true)
 
+Screenshot
+Below is a screenshot of the Dictionary App in action:
+## Screenshot
+
+![Dictionary App Screenshot](https://github.com/ShalbaShaikh16/Dictionary_app/blob/master/Dict1.png?raw=true)
+
+
 ## Installation
 
 To run this project locally on your machine, follow these steps:
